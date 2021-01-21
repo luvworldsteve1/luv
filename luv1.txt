@@ -1,1 +1,9 @@
-hi good to see you again!
+#luv
+
+luv is a learning project for learning web development and web designing with using git and github.
+this is gonna be the best path of learning for ever.
+
+today I will learn how to connect vs code to github account by using git.
+
+
+
